@@ -85,4 +85,4 @@ class TestDetectProgramming:
         )
         assert len(results) >= 1
         confidences = [r.confidence for r in results]
-        assert confidences == sorted(confidences, reverse=True)
+        assert confidences == sorted(confidences, reverse=True) 
