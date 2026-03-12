@@ -1,4 +1,4 @@
-"""Universal Language Detection - detect both natural and programming languages."""
+test"""Universal Language Detection - detect both natural and programming languages."""
 
 from .detector import UniversalDetector
 from .natural import NaturalLanguageDetector
