@@ -1,4 +1,4 @@
-"""UniversalDetector: single entry point for both natural and programming language detection."""
+autodidactes"""UniversalDetector: single entry point for both natural and programming language detection."""
 
 from dataclasses import dataclass, field
 from typing import Optional
